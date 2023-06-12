@@ -1,0 +1,17 @@
+
+*{
+  text-align: center;
+}
+
+#background{
+  position: absolute;
+}
+
+#copy-button{
+  padding: 5px 10px 5px 10px;
+  border: none;
+}
+#copy-button:hover{
+  background-color: skyblue;
+}
+
