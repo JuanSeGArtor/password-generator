@@ -1,0 +1,29 @@
+
+footer{
+    width: auto;
+    height: 48px;
+    background-color: rgb(180, 180, 180);
+    padding: 10px;
+}
+a{
+    background-color: gray;
+    margin: 10px 0px 10px 0px;
+    padding: 5px 20px 10px 20px;
+    border-radius: 10px;
+}
+a:hover{
+    border-radius: 20px;
+    transition: 1s;
+}
+.github{
+    margin: 0px 10px 0px 0px;
+}
+.github:hover{
+    background-color: #333333;
+}
+.linkedin{
+    margin: 0px 0px 0px 10px;
+}
+.linkedin:hover{
+    background-color: #0e76a8;
+}
